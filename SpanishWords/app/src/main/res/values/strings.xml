@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Sフラッシュ</string>
+    <string name="start_button_title">スタート</string>
+    <string name="speed_label">スピード</string>
+    <string name="pronunciation_check_box_title">発音を表示する</string>
+    <string name="main_menu_category">カテゴリ</string>
+    <string name="main_menu_license">ライセンス</string>
+    <string name="category_noun">名詞</string>
+    <string name="category_adjective">形容詞</string>
+    <string name="category_verb">動詞</string>
+    <string name="category_preposition">前置詞</string>
+    <string name="category_article">冠詞</string>
+    <string name="category_pronoun">代名詞</string>
+    <string name="category_number">数字</string>
+    <string name="category_month_and_week">月と曜日</string>
+    <string name="category_interrogative">疑問代名詞</string>
+    <string name="category_adverb">副詞</string>
+    <string name="no_data_message">このカテゴリの単語はすべて完了しました。もう一度表示したい場合は設定画面でチェック状態をOFFにしてください。</string>
+
+    <string name="screen_title_main">フラッシュカード</string>
+    <string name="screen_title_category">カテゴリ</string>
+
+    <string name="image_description_play">再開</string>
+    <string name="image_description_next">次へ</string>
+    <string name="image_description_previous">前へ</string>
+</resources>
