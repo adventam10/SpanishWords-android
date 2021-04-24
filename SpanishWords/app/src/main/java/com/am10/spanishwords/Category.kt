@@ -1,4 +1,4 @@
-package com.example.spanishwords
+package com.am10.spanishwords
 
 enum class Category constructor(val wordType: Int) {
     NOUN(0),

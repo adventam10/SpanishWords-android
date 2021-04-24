@@ -1,4 +1,4 @@
-package com.example.spanishwords
+package com.am10.spanishwords
 
 import android.os.Bundle
 import android.os.Handler

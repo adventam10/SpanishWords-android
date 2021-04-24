@@ -1,4 +1,4 @@
-package com.example.spanishwords
+package com.am10.spanishwords
 
 import androidx.room.Entity
 import androidx.room.PrimaryKey

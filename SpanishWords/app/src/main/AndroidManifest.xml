@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.spanishwords">
+    package="com.am10.spanishwords">
 
     <uses-permission android:name="android.permission.INTERNET"/>
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
@@ -14,13 +14,13 @@
         <meta-data
             android:name="com.google.android.gms.ads.APPLICATION_ID"
             android:value="ca-app-pub-8666562449597082~3588120902"/>
-        <activity android:name=".WordListActivity"
+        <activity android:name="com.am10.spanishwords.WordListActivity"
             android:screenOrientation="portrait"/>
-        <activity android:name=".CategoryActivity"
+        <activity android:name="com.am10.spanishwords.CategoryActivity"
             android:screenOrientation="portrait" />
-        <activity android:name=".FlashCardActivity"
+        <activity android:name="com.am10.spanishwords.FlashCardActivity"
             android:screenOrientation="portrait" />
-        <activity android:name=".MainActivity"
+        <activity android:name="com.am10.spanishwords.MainActivity"
             android:screenOrientation="portrait">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
